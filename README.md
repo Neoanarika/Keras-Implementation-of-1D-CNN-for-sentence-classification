@@ -9,6 +9,11 @@ cd Keras-Implementation-of-1D-CNN-for-sentence-classification
 python cnn_classification2.py
 ```
 
+# Dependencies 
+```
+pip install numpy==1.16.1
+```
+
 # Footnotes 
 1. The pretrain model I uploaded was only trained in 1 epoch I have not included the full 5 epochs yet. 
 2. The model is evaluated using logloss not accuracy 
